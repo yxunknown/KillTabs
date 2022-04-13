@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yxunknown.killtabs.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yxunknown.killtabs.MyBundle
 
 class MyApplicationService {
 
